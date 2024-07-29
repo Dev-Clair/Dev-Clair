@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=7FC6FB&width=435&lines=A+software+backend+developer.;My+love+for+debugging+brought+me+this+far%E2%AD%90." alt="Typing SVG" /></a>
 </h3>
 
-<a href="https://app.daily.dev/"><img align="right" src="https://api.daily.dev/devcards/?r=ng5" width="400" alt="Samuel Aniogbu's Dev Card"/></a>
+<a href="https://app.daily.dev/samuelaniogbu"><img src="https://api.daily.dev/devcards/v2/r7JlAaSNM37zFcQ1cnWY4.png?r=zs3" width="356" alt="Samuel Aniogbu's Dev Card"/></a>
 
 A Junior NodeJs|PHP Full-stack Developer, willing to continuously grow and learn, eager to write and maintain good-quality code while working in a friendly environment with a dedicated team. 🤓 🐘
 
