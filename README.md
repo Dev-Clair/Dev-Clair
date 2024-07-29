@@ -22,7 +22,7 @@ Check out all my proficient skill sets: 📚
 - REST API, Postman
 - MySQL/MariaDB, Postgres, MongoDB, Redis
 - Docker, Git
-- Cloud: Amazon Web Services
+- Cloud: Amazon Web Services (AWS) - Lambda, APIGateway, Elastic Beanstalk, Eventbridge, SQS, SNS, SES
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
